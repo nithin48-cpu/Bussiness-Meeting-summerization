@@ -1,0 +1,9 @@
+soundfile
+transformers
+sentencepiece
+torchaudio
+librosa
+numpy
+pytorch
+tensorflow
+accelerator
